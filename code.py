@@ -3,7 +3,7 @@ from discord.ext import commands
 import random
 import asyncio
 
-TOKEN = 'NDg4MjMyNzM1MDY5MDQ0NzU2.DneR-w.FJqrNvmRbgfxwYFQtvb216t1qSk'
+TOKEN = 'NDg4MjMyNzM1MDY5MDQ0NzU2.Dns8uw.ASrrvH3lIf3gjFsBUcvS6Q5FE-s'
 
 client = commands.Bot(command_prefix='z!')
 
